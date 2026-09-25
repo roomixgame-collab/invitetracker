@@ -1,0 +1,13 @@
+{
+  "name": "invite-tracker-bot",
+  "version": "1.0.0",
+  "description": "Bot separado que rastreia invites do Discord e credita quem convidou",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7"
+  }
+}
